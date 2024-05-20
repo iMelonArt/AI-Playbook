@@ -24,9 +24,14 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 
 | Projects | Description |
 | --- | --- |
-| [MelonRagGPT - local AI](ttps://github.com/iMelonArt/AI-Playbook/melonRagGPT) | An local AI chatbot in Docker containers and it can be deployed in Containers and Kubernetes for entreprise-grade scale. End-to-end implementation blog post is [here]() and video is [here]() on [CloudMelon Vis]() channel on Youtube|
-| [MelonRagGPT - Azure OpenAI]() | Upcoming |
+| [Gemini 1.5](https://github.com/iMelonArt/AI-Playbook/Resources/gemini_v1_5_report.pdf) | Gemini 1.5 Technical paper |
+| [GPTs](https://arxiv.org/abs/2303.08774) | GPT technical papers |
+| [GPT 3](https://arxiv.org/pdf/2005.14165) | GPT3 technical papers |
+| [GPT 4](https://arxiv.org/pdf/2303.08774) | GPT4 technical papers |
  
+# References 
+
+ 1. [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
 
 
 # Related projects in the `Playbook by cloudmelon ` 
