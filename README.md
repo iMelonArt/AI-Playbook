@@ -25,7 +25,6 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 | Projects | Description |
 | --- | --- |
 | [Gemini 1.5](https://github.com/iMelonArt/AI-Playbook/Resources/gemini_v1_5_report.pdf) | Gemini 1.5 Technical paper |
-| [GPTs](https://arxiv.org/abs/2303.08774) | GPT technical papers |
 | [GPT 3](https://arxiv.org/pdf/2005.14165) | GPT3 technical papers |
 | [GPT 4](https://arxiv.org/pdf/2303.08774) | GPT4 technical papers |
  
