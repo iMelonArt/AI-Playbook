@@ -24,10 +24,11 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 
 | Projects | Description |
 | --- | --- |
-| LLMs(Large language models) Overview + Surveys | LLMs Overview technical papers [survey 1](https://ar5iv.labs.arxiv.org/html/2402.06196) [survey 2](https://ar5iv.labs.arxiv.org/html/2303.18223) [overview](https://ar5iv.labs.arxiv.org/html/2307.06435) |
+| LLMs(Large language models) Overview + Surveys | LLMs Overview technical pape [LLMs survey 1](https://ar5iv.labs.arxiv.org/html/2402.06196),[LLMs survey 2](https://ar5iv.labs.arxiv.org/html/2303.18223), [LLMs overview](https://ar5iv.labs.arxiv.org/html/2307.06435) |
 | [Gemini 1.5](https://github.com/iMelonArt/AI-Playbook/Resources/gemini_v1_5_report.pdf) | Gemini 1.5 Technical paper |
 | [GPT 3](https://arxiv.org/pdf/2005.14165) | GPT3 technical papers |
 | [GPT 4](https://arxiv.org/pdf/2303.08774) | GPT4 technical papers |
+| [Quantum Computing ](https://arxiv.org/abs/2405.15838) | Things you didn't know about Quantum Computers |
  
 # References 
 
