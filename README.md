@@ -28,6 +28,8 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 | [Gemini 1.5](https://github.com/iMelonArt/AI-Playbook/Resources/gemini_v1_5_report.pdf) | Gemini 1.5 Technical paper |
 | [GPT 3](https://arxiv.org/pdf/2005.14165) | GPT3 technical papers |
 | [GPT 4](https://arxiv.org/pdf/2303.08774) | GPT4 technical papers |
+| [Phi-3 Technical Paper](https://export.arxiv.org/abs/2404.14219) | Phi-3 Technical Report:
+A Highly Capable Language Model Locally on Your Phone |
  
 # References 
 
