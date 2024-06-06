@@ -28,8 +28,10 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 | [Gemini 1.5](https://github.com/iMelonArt/AI-Playbook/Resources/gemini_v1_5_report.pdf) | Gemini 1.5 Technical paper |
 | [GPT 3](https://arxiv.org/pdf/2005.14165) | GPT3 technical papers |
 | [GPT 4](https://arxiv.org/pdf/2303.08774) | GPT4 technical papers |
-| [Quantum Computing ](https://arxiv.org/abs/2405.15838) | Things you didn't know about Quantum Computers |
-| [Triton technical paper ](https://github.com/iMelonArt/AI-Playbook/Resources/triton techniacl paper.pdf) | Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations and their Github repo [here](https://github.com/triton-lang/triton?tab=readme-ov-file)|
+| [Phi-3 Technical Paper](https://export.arxiv.org/abs/2404.14219) | Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone |
+| [Quantum Computing](https://arxiv.org/abs/2405.15838) | Things you didn't know about Quantum Computers |
+| [Triton technical paper](https://github.com/iMelonArt/AI-Playbook/Resources/triton_tech_paper.pdf) |Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations and their Github repo [here](https://github.com/triton-lang/triton?tab=readme-ov-file) |
+
  
 # References 
 
