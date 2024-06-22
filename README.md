@@ -31,6 +31,7 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 | [Phi-3 Technical Paper](https://export.arxiv.org/abs/2404.14219) | Phi-3 Technical Report: A Highly Capable Language Model Locally on Your Phone |
 | [Quantum Computing](https://arxiv.org/abs/2405.15838) | Things you didn't know about Quantum Computers |
 | [Triton technical paper](https://github.com/iMelonArt/AI-Playbook/Resources/triton_tech_paper.pdf) |Triton: An Intermediate Language and Compiler for Tiled Neural Network Computations and their Github repo [here](https://github.com/triton-lang/triton?tab=readme-ov-file) |
+| [Retrieval-Augmented Generation with Knowledge Graphs for Customer Service Question Answering](https://arxiv.org/pdf/2404.17723) | Retrieval-Augmented Generation (RAG) architecture case study from Linkedin better than traditional RAG from raw text |
 
  
 # References 
