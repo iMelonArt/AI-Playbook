@@ -38,6 +38,7 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 # References 
 
  1. [CS231n: Convolutional Neural Networks for Visual Recognition](https://cs231n.github.io/)
+ 2. [Qwen2 Technical Report](https://huggingface.co/papers/2407.10671)
 
 
 # Related projects in the `Playbook by cloudmelon ` 
